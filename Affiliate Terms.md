@@ -1,4 +1,21 @@
- paid by those Followers to OPNX.
+OPNX is the trading name of Open Technology Markets Ltd. a company incorporated under the International Business Companies Act of 2016 of the Republic of Seychelles with company number 237185O.
+
+This Affiliate Program Services Agreement (**“Services Agreement”**) sets forth the terms and conditions of your use of the Affiliate Program (**“Affiliate Program”**) between you and OPNX.
+
+By participating in the Affiliate Program you agree to the terms and conditions of the Affiliate Program Services Agreement and the Terms of Service as well as any other disclaimers and policies published on our website including but not limited to the Privacy Policy, Cookies Policy and Risk Policy. OPNX reserves the right to amend, modify, suspend or terminate the Services Agreement and the Affiliate Program from time to time and at any time as determined by OPNX in its sole discretion. If you do not agree to the terms and conditions of the Services Agreement, the Affiliate Program or either’s amendments or modifications, please do not participate in the Affiliate Program. Your participation or continuing participation in the Affiliate Program signifies your agreement to all such terms and conditions, amendments or modifications thereto.
+
+Anyone being a citizen, located in, or resident of the United States of America and any other restricted, sanctioned or Prohibited Jurisdiction is prohibited from:
+
+
+
+* Acting as an Affiliate of OPNX;
+* Making any referrals as an Affiliate to OPNX;
+* Opening an account as a Follower or otherwise using OPNX’s products or services;
+* Receiving any Commission(s) otherwise due to an Affiliate or any Rebate extended to a Follower.
+
+**1. How does the Affiliate Program work?**
+
+OPNX allows eligible Affiliates to recommend/refer the OPNX trading platform to their Followers and hence, earn Commissions from receiving a percentage of the fees paid by those Followers to OPNX.
 
 Followers will receive a Rebate on completed trade fees for the initial period of time from the moment of registration.
 

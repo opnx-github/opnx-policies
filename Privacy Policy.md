@@ -57,7 +57,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 **Retention period for personal information**
 
-We keep your personal information for as long as the Personal Information is needed for its intended purpose. We may also keep a copy of your Personal Information for archival purposes for a minimum period of five years to comply with laws and regulations, and to support any potential legal claims.
+We keep your personal information for as long as the Personal Information is needed for its intended purpose. We may also keep a copy of your Personal Information for archival purposes for a minimum period of seven years to comply with laws and regulations, and to support any potential legal claims.
 
 **Review of this privacy policy**
 

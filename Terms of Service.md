@@ -72,21 +72,21 @@
 
 2.3  OPNX reserves the right to bar transactions from or to, to undertake enhanced due diligence, or to suspend or terminate the access to the Platform, or the creation or administration of any Account (including any subaccount) for or with, any user for any reason (or for no reason) at any time. Without limiting the generality of the foregoing, this includes any transfer, transaction, business, or dealing with a: 
     
-(i)	    Sanctioned Person; 
+**(i)**	    Sanctioned Person; 
 
-(ii)	Prohibited Jurisdiction or a citizen or resident of, a government or government official of, or person in or subject to authority of any Prohibited Jurisdiction; 
+**(ii)**	Prohibited Jurisdiction or a citizen or resident of, a government or government official of, or person in or subject to authority of any Prohibited Jurisdiction; 
 
-(iii)	U.S. person; 
+**(iii)**	U.S. person; 
 
-(iv)	Person from or in any jurisdiction that does not meet international AML–CTF standards (including any jurisdiction identified by the Financial Action Task Force (FATF) as high-risk, non-cooperative, or strategically deficient jurisdictions, or jurisdictions under increased monitoring); 
+**(iv)**	Person from or in any jurisdiction that does not meet international AML–CTF standards (including any jurisdiction identified by the Financial Action Task Force (FATF) as high-risk, non-cooperative, or strategically deficient jurisdictions, or jurisdictions under increased monitoring); 
 
-(v)	    Person that is or formerly was a government official or “politically exposed person” within the meaning of the FATF’s 40 Recommendations; 
+**(v)**	    Person that is or formerly was a government official or “politically exposed person” within the meaning of the FATF’s 40 Recommendations; 
 
-(vi)	Person that presents a risk of any exposure to penalties, sanctions, or other liabilities that may apply to to OPNX or any of its Affiliates; 
+**(vi)**	Person that presents a risk of any exposure to penalties, sanctions, or other liabilities that may apply to to OPNX or any of its Affiliates; 
 
-(vii)	Person that OPNX determines is acting in the United States or territory or possession of the United States (whether or not by, to, through, or from a U.S. financial institution) in violation of, causing any other person, including any of our Affiliates, to violate, attempting or conspiring to violate, or evading or circumventing this Agreement; and 
+**(vii)**	Person that OPNX determines is acting in the United States or territory or possession of the United States (whether or not by, to, through, or from a U.S. financial institution) in violation of, causing any other person, including any of our Affiliates, to violate, attempting or conspiring to violate, or evading or circumventing this Agreement; and 
 
-(viii)	Person that fails to meet any user due diligence standards, requests, or requirements of OPNX, or otherwise appears to be of high risk, including any of the foregoing factors. 
+**(viii)**	Person that fails to meet any user due diligence standards, requests, or requirements of OPNX, or otherwise appears to be of high risk, including any of the foregoing factors. 
 
 2.4 You are aware of the risks in using the services provided by OPNX as outlined in our Risk Disclosure Warning Statement. These risks include the high volatility risk of cryptocurrency itself, the fact that you may lose all of the funds in your trading account if the market moves against you;
 

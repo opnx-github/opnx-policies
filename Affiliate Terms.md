@@ -1,4 +1,4 @@
-OPNX is the trading name of Open Technology Markets Ltd. a company incorporated under the International Business Companies Act of 2016 of the Republic of Seychelles with company number 237185O.
+OPNX is the trading name of Open Technology Markets Ltd. a company incorporated under the International Business Companies Act of 2016 of the Republic of Seychelles with company number 237185.
 
 This Affiliate Program Services Agreement (**“Services Agreement”**) sets forth the terms and conditions of your use of the Affiliate Program (**“Affiliate Program”**) between you and OPNX.
 

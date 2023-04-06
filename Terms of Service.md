@@ -422,4 +422,4 @@
 
 22.12 This Agreement and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the laws of the Republic of Seychelles.
 
-22.13 You irrevocably agree that the courts of the Republic of Seychelles shall have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with this Agreement or their subject matter or formation (including non-contractual disputes or claim
+22.13 You irrevocably agree that the courts of the Republic of Seychelles shall have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with this Agreement or their subject matter or formation (including non-contractual disputes or claim).

@@ -93,18 +93,18 @@ rvUSD is a Digital Asset which has been issued pursuant to the ruling of the Sup
 
 Trading in tokenised debt instruments, such as rvUSD, carries inherent risks. When the debt issuer is involved in ongoing litigation and the debt is subject to dispute, these risks are heightened.  Potential investors should carefully consider the following risks before participating in such investments:
 
-Legal uncertainty: The outcome of the ongoing litigation is uncertain, and a negative ruling could negatively impact the value of the tokenised debt. Additionally, the legal status of tokenised debt may be unclear in certain jurisdictions, and regulatory changes could affect the value and liquidity of the investment.
+_Legal uncertainty_: The outcome of the ongoing litigation is uncertain, and a negative ruling could negatively impact the value of the tokenised debt. Additionally, the legal status of tokenised debt may be unclear in certain jurisdictions, and regulatory changes could affect the value and liquidity of the investment.
 
-Credit risk: If the counterparty defaults on its debt obligations or becomes insolvent, investors may lose some or all of their principal investment. The ongoing litigation and debt dispute may increase the likelihood of default or insolvency.
+_Credit risk_: If the counterparty defaults on its debt obligations or becomes insolvent, investors may lose some or all of their principal investment. The ongoing litigation and debt dispute may increase the likelihood of default or insolvency.
 
-Liquidity risk: Tokenised debt instruments may be less liquid than traditional debt securities, making it more challenging to buy or sell the investment at a desirable price. Ongoing litigation and debt disputes may further decrease liquidity, as potential buyers may be deterred by the increased risks.
+_Liquidity risk_: Tokenised debt instruments may be less liquid than traditional debt securities, making it more challenging to buy or sell the investment at a desirable price. Ongoing litigation and debt disputes may further decrease liquidity, as potential buyers may be deterred by the increased risks.
 
-Price volatility: The market price of tokenised debt may be more volatile than traditional debt securities, as the market for tokenised debt is typically smaller and more susceptible to external factors. The ongoing litigation and debt dispute may contribute to increased price volatility.
+_Price volatility_: The market price of tokenised debt may be more volatile than traditional debt securities, as the market for tokenised debt is typically smaller and more susceptible to external factors. The ongoing litigation and debt dispute may contribute to increased price volatility.
 
-Counterparty risk: As the counterparty is engaged in ongoing litigation and the debt is subject to dispute, there may be heightened counterparty risk. This could include the risk of fraudulent activity, mismanagement, or inadequate disclosure of relevant information.
+_Counterparty risk_: As the counterparty is engaged in ongoing litigation and the debt is subject to dispute, there may be heightened counterparty risk. This could include the risk of fraudulent activity, mismanagement, or inadequate disclosure of relevant information.
 
-Reputational risk: Investing in tokenised debt from a counterparty involved in litigation and subject to dispute may expose investors to reputational risk, as their association with the counterparty could negatively impact their own reputation.
+_Reputational risk_: Investing in tokenised debt from a counterparty involved in litigation and subject to dispute may expose investors to reputational risk, as their association with the counterparty could negatively impact their own reputation.
 
-Regulatory risk: Regulatory authorities may impose new laws or regulations, or change existing ones, which could have a material adverse effect on the value and liquidity of tokenised debt. The ongoing litigation and debt dispute may also attract regulatory scrutiny, increasing the likelihood of regulatory intervention.
+_Regulatory risk_: Regulatory authorities may impose new laws or regulations, or change existing ones, which could have a material adverse effect on the value and liquidity of tokenised debt. The ongoing litigation and debt dispute may also attract regulatory scrutiny, increasing the likelihood of regulatory intervention.
 
 Before trading in tokenised debt, such as rvUSD, issued from a counterparty engaged in ongoing litigation and subject to dispute, you should carefully weigh these risks and consult with legal and financial advisors to determine whether such an investment aligns with your risk tolerance and investment objectives.

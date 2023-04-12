@@ -12,39 +12,51 @@ The Tokens shall have the rights as described in the term sheet (the “Term She
 
 The Tokens do not confer any rights, express or implied, other than described in these Terms or the Term Sheet. In particular, you understand and accept that the Token does not represent or confer any ownership right or stake, share or security or equivalent rights, or any right to receive future revenue shares, intellectual property rights or any other form of participation in or relating to LTL and its corporate affiliates, other than rights as specified in the Term Sheet and these Terms.  
 
-## 2. Scope of Terms**
+### 2. Scope of Terms
 
 The use of Tokens in connection with the Platform may be governed by other applicable terms and policies (collectively, the “Platform Terms and Policies”).  Any Terms and Policies LTL may promulgate will be available at www.coinflex.com.  LTL may add terms or policies to the Platform Terms and Policies at its sole discretion, and may update each of the Platform Terms and Policies from time to time according to modification procedures set forth therein.  To the extent of any conflict with these Terms, the Platform Terms and Policies shall control with respect to any issues relating to the use of Tokens in connection with the Platform.
 
-**3. Acknowledgment and Assumption of Risks**
+### 3. Acknowledgment and Assumption of Risks
 
 You acknowledge and agree that there are risks associated with the Tokens, holding Tokens and using Tokens, as disclosed and explained in the Risk Disclosures set forth in Schedule 1 hereto. 
 
 BY ACCEPTING THESE TERMS, YOU EXPRESSLY AND FINALLY ACKNOWLEDGE, ACCEPT AND ASSUME ALL OF THE RISKS SET FORTH IN SCHEDULE 1 HERETO.  ALL RISK OF LOSS TRANSFERS TO YOU UPON ISSUANCE OF THE TOKENS.
 
-**4. Security**
+### 4. Security
 
 Your Security:  If you are not going to hold the Tokens on the Platform, then you are responsible for implementing reasonable measures for securing the wallet, vault or other storage mechanisms you use to receive and hold Tokens, including any requisite private key(s) or other credentials necessary to access such storage mechanism(s). If your private key(s) or other access credentials are lost, you may lose access to your Tokens. We are not responsible for any such losses. 
 
-**5. Representations and Warranties**
+### 5. Representations and Warranties**
 
 By acquiring the Tokens, you represent and warrant that:
 
 **1.** You have sufficient understanding of cryptographic tokens, token storage mechanisms (such as token wallets), and distributed ledger technology to understand these Terms and to appreciate and accept the risks and implications of purchasing the Tokens;
+
 **2.** You have read and understand these Terms (including the totality of the Term Sheet to which these Terms also apply);
+
 **3.** You have obtained sufficient information about the Tokens;
+
 **4.** You understand that the Tokens currently only confer the right to transfer value within the Platform and confer no other rights of any form with respect to the Platform, LTL or the Company, including, but not limited to, any voting, distribution, redemption, liquidation, proprietary (including all forms of intellectual property), or other financial or legal rights other than as specified in the Term Sheet;
+
 **5.** Your purchase of Tokens complies with applicable law and regulation in a relevant jurisdiction, including, but not limited to, (i) legal capacity and any other threshold requirements in your jurisdiction for the purchase of the Tokens and entering into contracts with us, (ii) any foreign exchange or regulatory restrictions applicable to such purchase, and (iii) any governmental or other consents that may need to be obtained;
+
 **6.** You will comply with any applicable tax obligations in any applicable jurisdiction that may be relevant to your purchase, holding, redemption, sale, or transfer of the Tokens;
+
 **7.** You have reached the age of majority in your country of residence and are legally able to obtain, hold and use the Tokens;
+
 **8.** You understand with regard to Tokens, that we make no guarantees that you will be able to resell Tokens, or as to its future value, and that no market liquidity may be guaranteed and that the value of Tokens over time may experience extreme volatility or depreciate in full;
+
 **9.** You understand that you bear the sole responsibility to determine whether your interactions with the Platform, the ownership or use of the Tokens, the potential appreciation or depreciation in the value of the Tokens over time, the sale and purchase of the Tokens and/or any other action or transaction related to the Platform may have tax implications; further, by obtaining, holding or using the Tokens, and to the extent permitted by law, you agree not to hold any third party (e.g., developers, auditors, contractors, or founders) liable for any tax liability associated with or arising from the ownership or use of the Tokens or any other action or transaction related to the Platform;
+
 **10.** You waive the right to participate in a class action lawsuit or a class wide arbitration against any entity or individual involved with the creation of the Tokens, as discussed more fully here;
+
 **11.** You understand that the purchase of Tokens does not involve the purchase of shares or any equivalent in any existing or future public or private company, corporation or other entity in any jurisdiction and that the Token has limited purpose and use as described in the Term Sheet.
+
 **12.** (i) You are not a citizen or resident of a geographic area in which access to or use of the Platform is prohibited by applicable law, decree, regulation, treaty, or administrative act, (ii) you are not a citizen or resident of, or located in, a geographic area that is subject to U.S. or other sovereign country sanctions or embargoes, or (iii) you are not an individual, or an individual employed by or associated with an entity, identified on the applicable restricted party lists, including but not limited to the U.S. Department of Commerce's Bureau of Industry and Security (BIS) Denied Persons List, Unverified List, or Entity List, the U.S. Department of Treasury's Office of Foreign Assets Control (OFAC) Specially Designated Nationals and Blocked Persons List, Foreign Sanctions Evaders List, or List of Consolidated Sanctions, or the U.S. Department of State's Directorate of Defense Trade Controls (DDTC) Debarred Parties List.
+
 **13.** You agree not to allow anyone to use your account or share your credentials with any other person for the purpose of facilitating their unauthorised access to the Token. If you do share your credentials with anyone we will consider their activities to have been made by you. You alone are responsible for any acts or omissions that occur through the use of your credentials. We reserve the right to suspend or block your access to the Token upon suspicion of any unauthorised access or use, or any attempted access or use, by anyone associated with your credentials.
 
-**6. Indemnification**
+### 6. Indemnification
 
 1. To the fullest extent permitted by applicable law, you will indemnify, defend and hold harmless both LTL, the Company and their respective past, present and future employees, officers, directors, contractors, consultants, equity holders, suppliers, vendors, service providers, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns (the “Company Parties”) from and against all actual and threatened claims, lawsuits, demands, actions, investigations (whether formal or informal), liabilities, obligations, judgments, damages, penalties, interests, fees, losses, expenses (including attorneys’ fees and expenses), and costs (including, without limitation, court costs, costs of settlement, and costs of pursuing indemnification and insurance), of every kind and nature whatsoever, whether claimed by  Company Parties or third parties including governmental authorities, whether known or unknown, foreseen or unforeseen, matured or unmatured, or suspected or unsuspected, in law or equity, whether in tort, contract, or otherwise (collectively “Claims”) arising from or relating to (i) your acquisition or use of Tokens, (ii) the performance or non-performance of your responsibilities or obligations under these Terms, (iii) your breach or violation of these Terms, (iv) any inaccuracy in any representation or warranty made by you, (v) your violation of any rights (including, but not limited to, intellectual property rights) of any other person or entity or (vi) any act or omission of yours that is negligent, unlawful, or constitutes willful misconduct. This foregoing indemnity is in addition to, and not in lieu of, any other remedies that may be available to the Parties under applicable law. 
 2. Each of LTL and the Company reserves the right to exercise sole control over the defense, at your expense, of any claim subject to indemnification under Section 6A. This indemnity is in addition to, and not in lieu of, any other indemnities set forth in a written agreement between you and the Company.

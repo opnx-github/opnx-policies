@@ -6,7 +6,7 @@ The ownerships of the Tokens will be bound by these Terms and all terms incorpor
 
 You and the Company agree as follows:
 
-##1. Purpose and Use of Tokens##
+## 1. Purpose and Use of Tokens
 
 The Tokens shall have the rights as described in the term sheet (the “Term Sheet”) relating to the restructuring of Liquidity Technologies Ltd (“CoinFLEX” or “LTL” or “Platform”) which has been approved by Supreme Court of Seychelles (https://coinflex.com/blog/coinflex-seychelles-approval-order). It is not intended that the Token shall have any other use, utility or function whatsoever other than as described in the Term Sheet which can be found at https://coinflex.com/blog/coinflex-restructuring-proposal-and-next-steps. 
 

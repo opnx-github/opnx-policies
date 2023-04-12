@@ -26,7 +26,7 @@ BY ACCEPTING THESE TERMS, YOU EXPRESSLY AND FINALLY ACKNOWLEDGE, ACCEPT AND ASSU
 
 Your Security:  If you are not going to hold the Tokens on the Platform, then you are responsible for implementing reasonable measures for securing the wallet, vault or other storage mechanisms you use to receive and hold Tokens, including any requisite private key(s) or other credentials necessary to access such storage mechanism(s). If your private key(s) or other access credentials are lost, you may lose access to your Tokens. We are not responsible for any such losses. 
 
-### 5. Representations and Warranties**
+### 5. Representations and Warranties
 
 By acquiring the Tokens, you represent and warrant that:
 
@@ -96,7 +96,7 @@ Any dispute, controversy, or claim arising out of or relating to this Agreement 
 
 The decision of the arbitrator shall be final and binding on the parties and may be enforced in any court of competent jurisdiction. The costs of the arbitration, including the fees and expenses of the arbitrator, shall be borne equally by the parties, unless the arbitrator determines otherwise.
 
-**No Class Arbitrations, Class Actions or Representative Actions. ** 
+**No Class Arbitrations, Class Actions or Representative Actions.** 
 
 Any dispute arising out of or related to these Terms is personal to you and LTL and/or the Company and will be resolved solely through individual arbitration and will not be brought as a class arbitration, class action or any other type of representative proceeding. There will be no class arbitration or arbitration in which an individual attempts to resolve a dispute as a representative of another individual or group of individuals. Further, a dispute cannot be brought as a class or other type of representative action, whether within or outside of arbitration, or on behalf of any other individual or group of individuals.
 

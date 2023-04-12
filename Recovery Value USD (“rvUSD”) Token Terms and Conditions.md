@@ -82,10 +82,7 @@ Some jurisdictions do not allow the limitation or exclusion of liability for inc
 
 ### 9. Release
 
-
 To the fullest extent permitted by applicable law, you release both LTL and the Company and the other Company Parties from responsibility, liability, claims, losses, demands and/or damages (actual and consequential) of every kind and nature, known and unknown (including, but not limited to, claims of negligence), arising out of or related to disputes between you and the acts or omissions of third parties.
-
- 
 
 A general release does not extend to claims which the creditor does not know or suspect to exist in his or her favor at the time of executing the release, which if known by him or her must have materially affected his or her settlement with the debtor.
 

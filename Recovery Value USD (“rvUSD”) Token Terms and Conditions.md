@@ -6,13 +6,13 @@ The ownerships of the Tokens will be bound by these Terms and all terms incorpor
 
 You and the Company agree as follows:
 
-## 1. Purpose and Use of Tokens
+### 1. Purpose and Use of Tokens
 
 The Tokens shall have the rights as described in the term sheet (the “Term Sheet”) relating to the restructuring of Liquidity Technologies Ltd (“CoinFLEX” or “LTL” or “Platform”) which has been approved by Supreme Court of Seychelles (https://coinflex.com/blog/coinflex-seychelles-approval-order). It is not intended that the Token shall have any other use, utility or function whatsoever other than as described in the Term Sheet which can be found at https://coinflex.com/blog/coinflex-restructuring-proposal-and-next-steps. 
 
 The Tokens do not confer any rights, express or implied, other than described in these Terms or the Term Sheet. In particular, you understand and accept that the Token does not represent or confer any ownership right or stake, share or security or equivalent rights, or any right to receive future revenue shares, intellectual property rights or any other form of participation in or relating to LTL and its corporate affiliates, other than rights as specified in the Term Sheet and these Terms.  
 
-**2. Scope of Terms**
+## 2. Scope of Terms**
 
 The use of Tokens in connection with the Platform may be governed by other applicable terms and policies (collectively, the “Platform Terms and Policies”).  Any Terms and Policies LTL may promulgate will be available at www.coinflex.com.  LTL may add terms or policies to the Platform Terms and Policies at its sole discretion, and may update each of the Platform Terms and Policies from time to time according to modification procedures set forth therein.  To the extent of any conflict with these Terms, the Platform Terms and Policies shall control with respect to any issues relating to the use of Tokens in connection with the Platform.
 

@@ -12,7 +12,7 @@ USERS WHO DO NOT UNDERSTAND LEVERAGE OR MARGIN TRADING, OR DO NOT INTEND TO ACTI
 
 OPNX AND ITS AFFILIATES DO NOT TAKE ANY RESPONSIBILITY WHATSOEVER FOR ANY LOSSES OR DAMAGE INCURRED AS A RESULT OF YOUR USE OF ANY COMPLEX PRODUCT TRADING SERVICES OFFERED ON THE PLATFORM OR YOUR FAILURE TO UNDERSTAND THE RISKS ASSOCIATED WITH COMPLEX PRODUCT TRADING. PLEASE CONSULT YOUR PROFESSIONAL ADVISOR BEFORE TRADING.
 
-**Your losses are limited to your deposits**
+**Your losses are limited to your deposits** 
 
 Every financial investment involves a degree of risk. However your losses are limited to the amount you have funded your account with and by using this platform you will not owe us additional money.
 

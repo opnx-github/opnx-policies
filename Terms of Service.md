@@ -88,7 +88,7 @@
 
 **(viii)**	Person that fails to meet any user due diligence standards, requests, or requirements of OPNX, or otherwise appears to be of high risk, including any of the foregoing factors. 
 
-2.4 You are aware of the risks in using the services provided by OPNX as outlined in our Risk Disclosure Warning Statement. These risks include the high volatility risk of cryptocurrency itself, the fact that you may lose all of the funds in your trading account if the market moves against you; 
+2.4 You are aware of the risks in using the services provided by OPNX as outlined in our Risk Disclosure Warning Statement which is incorporated as part of this Agreement. These risks include the high volatility risk of cryptocurrency itself, the fact that you may lose all of the funds in your trading account if the market moves against you;
 
 2.5 You will not be involved or initiate any form of market manipulation, including spoofing orders or otherwise;
 
